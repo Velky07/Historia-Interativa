@@ -1,0 +1,12 @@
+Protagonista
+Jugger
+20
+Antagonista
+Capra-Demônio
+50
+Antagonista2
+Furtle
+50
+Nulo
+Nulo
+1

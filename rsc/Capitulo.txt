@@ -1,0 +1,1017 @@
+CAPITULO_COM_IMAGEM
+ID
+Raiz
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+Seu mundo, após ser destruido, 
+Protagonista
+ se encontra no Limbo eterno,
+ ele não encherga nada no Limbo, sua consiença vaga pelos confins daquele local.
+ Até que depois de muito tempo sem ter esperança, surge uma luz ao horizonte.
+ O que 
+Protagonista
+ fará?
+VARIACOES
+0
+0
+IMAGEM
+.       _____           .                   .                ,                           .                                    *          
+    ,-:` \;',`'-,              *                                                                                 *       +
+  .'-;_,;  ':-;_,'.                              ,              .              *                           '                  |                                
+ /;   '/    ,  _`.-\      ,                                                                             ()    .-.,="``"=.    - o -
+| '`. (`     /` ` \`|             *                    ,                                                     '=/_       \     |
+|:.  `\`-.   \_   / |    ,                                                *                  .             *   |  '=._    |
+|     (   `,  .`\ ;'|                    .                                                                     \     `=./`,        '
+ \     | .'     `-'/                             .         .                       .                         .   '=.__.=' `='      *
+  `.   ;/        .'   .         .               ,                       ,                         +                         +
+    `'-._____.                                               .                         .                 O      *        '       .
+                                .         .                                                                                           
+                                                  ,MMM8&&&.               ,                      ,             .                               
+        .        .           ,              _...MMMMM88&&&&..._
+                                        .::'''MMMMM88&&&&&&'''::.                   ,                .                        ,             
+                                        ::     MMMMM88&&&&&&     ::        *                                                                       
+               ,        .               '::....MMMMM88&&&&&&....::'                               ,               *                           
+         .                                `''''MMMMM88&&&&''''`            .                   ,                                            ,
+  ,                                             'MMM8&&&'                           *                     .                     .                           
+                   *             ,               ~+            *                                         . , *  .                 
+       *                                                                      ,            ,                 , .               . 
+                .                 ,                           *                          *                         .                        
+    .                                         *                                 .                     .                       .
+                      *                                             *   .                  .              .        .   *          .
+                             .                     .              .         .                     .       .           .      .        .
+   .                                                                    o                             .                   .
+              ,                     .                                   .              .                  .           .
+                                                             .            0     .
+      *                                                                         .          .                 ,                ,    ,
+                        ,       .         .                     .          \          .                         .
+                                                     .                .      \   ,
+  .          ,                                                    .          o     .                 .                   .            .
+                             .             ,                        .         \                 ,             .                .
+                     .                                       ,                #\##\#      .                              .        .
+      *                        ,                                            #  #O##\###                .                        .
+                                                                  .        #*#  #\##\###                       .                     ,
+               .             ,                   .                      .   ##*#  #\##\##               .                     .
+                                                                      .      ##*#  #o##\#         .                             ,       .
+.          ,                                       .            ,         .     *#  #\#     .                    .             .          ,
+                             .                                                        \          .                         .
+____^/\___^--____/\____O______________/\/\---/\___________---__________________^/\___^--____/\____O______________/\/\---/\___________---______________
+/\^   ^  ^    ^                  ^^ ^  '\ ^          ^       ---/\^   ^  ^    ^                  ^^ ^  '\ ^          ^       ---
+--           -            --  -      -         ---  __       ^--           -            --  -      -         ---  __       ^
+--  __                      ___--  ^  ^                         --  __--  __                      ___--  ^  ^                         --  __
+______________________________________________________________________________________________________________________________________________________                                   
+IMAGEM_FIM
+
+CAPITULO
+ID
+Final 1
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+Aceitando seu destino de pós morte 
+Protagonista
+ ignora a luz e decide viver no Limbo Depois de algum tempo a conciencia de 
+Protagonista
+ já não existe mais e ele deixou de pensar, agora apenas vaga pela eternidade...
+VARIACOES
+-20
+0
+
+CAPITULO
+ID
+Desespero
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+Protagonista
+ desesperado por viver, tenta alcançar a luz; quando finalmente alcança, ele se vê num mundo completamente diferente do seu anterior,
+ ele finalmente estava vivo novamente; 
+Protagonista
+ vê outros de sua espécie, ele está num planeta de Golens antigos, assim que ele chega naquele
+ local, ele é recebido por 'Grundle, O Guia', Grundle o explica que este local é apenas uma estádia temporaria para todos os Golens Hérois, e que 
+Protagonista
+ está em espera para o proxímo local que ele irá proteger com sua vida, e que para a espera não ser entediante, naquele local existira algumas recreações, como lutas e livros, por fim Grundle se despede e diz que o 
+Protagonista
+ está livre para andar pela área. o Que o 
+Protagonista
+ fará agora?
+VARIACOES
+0
+0
+
+CAPITULO_COM_IMAGEM
+ID
+Luta
+PERSONAGENS
+Protagonista
+Antagonista2
+TEXTO
+Protagonista
+ chega ao ringue e chama um lutador que aparentava ser forte, ele chama O Furtle Muralha, os dois em posição, 
+Protagonista
+ saca sua espada e Furtle sua marreta. Escolha: 
+VARIACOES
+0
+0
+IMAGEM
+             />
+ ()          //---------------------------------------------------------(
+(*)OXOXOXOXO(*>                                                          \
+ ()          \\-----------------------------------------------------------)
+              \>
+
+        |\
+        | \        /|
+        |  \____  / |
+       /|__/AMMA\/  |
+     /AMMMMMMMMMMM\_|
+ ___/AMMMMMMMMMMMMMMA
+ \   |MVKMMM/ .\MMMMM\
+  \__/MMMMMM\  /MMMMMM---
+  |MMMMMMMMMMMMMMMMMM|  /
+  |MMMM/. \MM.--MMMMMM\/
+  /\MMM\  /MM\  |MMMMMM   ___
+ /  |MMMMMMMMM\ |MMMMMM--/   \-.
+/___/MMMMMMMMMM\|M.--M/___/_|   \
+     \VMM/\MMMMMMM\  |      /\ \/
+      \V/  \MMMMMMM\ |     /_  /
+        |  /MMMV'   \|    |/ _/
+        | /              _/  /
+        |/              /| \'
+                       /_  /
+                       /  /              
+IMAGEM_FIM
+
+CAPITULO
+ID
+Lutando
+PERSONAGENS
+Protagonista
+Antagonista2
+TEXTO
+Após a sua tentativa, Furtle é perfurado, mas lhe contra ataca com uma marretada em sua cabeça. O Que você faz a seguir?
+VARIACOES
+-18
+-14
+
+CAPITULO
+ID
+Fim da luta
+PERSONAGENS
+Protagonista
+Antagonista2
+TEXTO
+Sua estratégia deu certo e Furtle caí de joelhos, antes que você pudesse dar o golpe final, Furtle fala que sua estratéria é muito boa e diz que você venceu o duelo.
+VARIACOES
+0
+-35
+
+CAPITULO
+ID
+Desonra
+PERSONAGENS
+Protagonista
+Antagonista2
+TEXTO
+Após sua tentativa, Furtle o para e diz que não lutará contra um guerreiro tão desonroso como você, e o explusa do ringue.
+VARIACOES
+0
+0
+
+CAPITULO
+ID
+Leitura
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+Protagonista
+ lê alguns livros e após isso, volta a esperar.
+VARIACOES
+0
+0
+
+CAPITULO
+ID
+Espera
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+Durante sua Espera, tocava uma musica no ambiente e você gostou do ritmo dela, e foi dançar.
+VARIACOES
+0
+0
+
+CAPITULO
+ID
+Capitulo 2: A Besta (Guerreiro)
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+Após um tempo, Grundle o chama e diz que você vai ter a escolha do mundo que você vai, o primeiro mundo é repleto de monstros que se acham donos do local e uma certa quantidade de humanóides
+ está lutando para sobreviver por lá, sua missão seria ajudar a salvar esse mundo dos terriveis monstros; O Segundo mundo é um local pós-apocaliptico terreste, chuva de meteóros é muito comum por lá e
+ eles precisam de um herói que possa salvar todas as raças que ainda existem por lá, sua missão seria acabar com o apocalipse terreste; e então 
+Protagonista
+ qual sua escolha?
+VARIACOES
+0
+0
+
+CAPITULO
+ID
+Capitulo 2: A Besta (Ladino)
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+Após um tempo, Grundle o chama e diz que você vai ter a escolha do mundo que você vai, o primeiro mundo é repleto de monstros que se acham donos do local e uma certa quantidade de humanóides
+ está lutando para sobreviver por lá, sua missão seria ajudar a salvar esse mundo dos terriveis monstros; O Segundo mundo é um local pós-apocaliptico terreste, chuva de meteóros é muito comum por lá e
+ eles precisam de um herói que possa salvar todas as raças que ainda existem por lá, sua missão seria acabar com o apocalipse terreste; e então 
+Protagonista
+ qual sua escolha?
+VARIACOES
+0
+0
+
+CAPITULO
+ID
+Capitulo 2: A Besta (Mago)
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+Após um tempo, Grundle o chama e diz que você vai ter a escolha do mundo que você vai, o primeiro mundo é repleto de monstros que se acham donos do local e uma certa quantidade de humanóides
+ está lutando para sobreviver por lá, sua missão seria ajudar a salvar esse mundo dos terriveis monstros; O Segundo mundo é um local pós-apocaliptico terreste, chuva de meteóros é muito comum por lá e
+ eles precisam de um herói que possa salvar todas as raças que ainda existem por lá, sua missão seria acabar com o apocalipse terreste; e então 
+Protagonista
+ qual sua escolha?
+VARIACOES
+0
+0
+
+CAPITULO
+ID
+Capitulo 2: A Besta (Bardo)
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+Após um tempo, Grundle o chama e diz que você vai ter a escolha do mundo que você vai, o primeiro mundo é repleto de monstros que se acham donos do local e uma certa quantidade de humanóides
+ está lutando para sobreviver por lá, sua missão seria ajudar a salvar esse mundo dos terriveis monstros; O Segundo mundo é um local pós-apocaliptico terreste, chuva de meteóros é muito comum por lá e
+ eles precisam de um herói que possa salvar todas as raças que ainda existem por lá, sua missão seria acabar com o apocalipse terreste; e então 
+Protagonista
+ qual sua escolha?
+VARIACOES
+0
+0
+
+CAPITULO
+ID
+Final 2
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+Após adentrar no segundo mundo, você dá o grande azar de um meteoro cair em sua cabeça.
+VARIACOES
+-100
+0
+
+CAPITULO_COM_IMAGEM
+ID
+Batalha (Guerreiro)
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Assim que você chega no primeiro mundo, você é abordado por um Capra-Demônio que logo começa a correr em sua direção, e a intenção dele é matar, Escolha:
+VARIACOES
+0
+0
+IMAGEM
+
+                            ,-.
+       ___,---.__          /'|`\          __,---,___
+    ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
+  ,'        |           ~'\     /`~           |        `.
+ /      ___//              `. ,'          ,  , \___      \
+|    ,-'   `-.__   _         |        ,    __,-'   `-.    |
+|   /          /\_  `   .    |    ,      _/\          \   |
+\  |           \ \`-.___ \   |   / ___,-'/ /           |  /
+ \  \           | `._   `\\  |  //'   _,' |           /  /
+  `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
+     ``       /     \    ,='/ \`=.    /     \       ''
+             |__   /|\_,--.,-.--,--._/|\   __|
+             /  `./  \\`\ |  |  | /,//' \,'  \
+            /   /     ||--+--|--+-/-|     \   \
+           |   |     /'\_\_\ | /_/_/`\     |   |
+            \   \__, \_     `~'     _/ .__/   /
+             `-._,-'   `-._______,-'   `-._,-'
+IMAGEM_FIM
+
+CAPITULO_COM_IMAGEM
+ID
+Batalha (Ladino)
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Assim que você chega no primeiro mundo, você é abordado por um Capra-Demônio que logo começa a correr em sua direção, e a intenção dele é matar, Escolha:
+VARIACOES
+0
+0
+IMAGEM
+
+                            ,-.
+       ___,---.__          /'|`\          __,---,___
+    ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
+  ,'        |           ~'\     /`~           |        `.
+ /      ___//              `. ,'          ,  , \___      \
+|    ,-'   `-.__   _         |        ,    __,-'   `-.    |
+|   /          /\_  `   .    |    ,      _/\          \   |
+\  |           \ \`-.___ \   |   / ___,-'/ /           |  /
+ \  \           | `._   `\\  |  //'   _,' |           /  /
+  `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
+     ``       /     \    ,='/ \`=.    /     \       ''
+             |__   /|\_,--.,-.--,--._/|\   __|
+             /  `./  \\`\ |  |  | /,//' \,'  \
+            /   /     ||--+--|--+-/-|     \   \
+           |   |     /'\_\_\ | /_/_/`\     |   |
+            \   \__, \_     `~'     _/ .__/   /
+             `-._,-'   `-._______,-'   `-._,-'
+IMAGEM_FIM
+
+CAPITULO_COM_IMAGEM
+ID
+Batalha (Mago)
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Assim que você chega no primeiro mundo, você é abordado por um Capra-Demônio que logo começa a correr em sua direção, e a intenção dele é matar, Escolha:
+VARIACOES
+0
+0
+IMAGEM
+
+                            ,-.
+       ___,---.__          /'|`\          __,---,___
+    ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
+  ,'        |           ~'\     /`~           |        `.
+ /      ___//              `. ,'          ,  , \___      \
+|    ,-'   `-.__   _         |        ,    __,-'   `-.    |
+|   /          /\_  `   .    |    ,      _/\          \   |
+\  |           \ \`-.___ \   |   / ___,-'/ /           |  /
+ \  \           | `._   `\\  |  //'   _,' |           /  /
+  `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
+     ``       /     \    ,='/ \`=.    /     \       ''
+             |__   /|\_,--.,-.--,--._/|\   __|
+             /  `./  \\`\ |  |  | /,//' \,'  \
+            /   /     ||--+--|--+-/-|     \   \
+           |   |     /'\_\_\ | /_/_/`\     |   |
+            \   \__, \_     `~'     _/ .__/   /
+             `-._,-'   `-._______,-'   `-._,-'
+IMAGEM_FIM
+
+CAPITULO_COM_IMAGEM
+ID
+Batalha (Bardo)
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Assim que você chega no primeiro mundo, você é abordado por um Capra-Demônio que logo começa a correr em sua direção, e a intenção dele é matar, Escolha:
+VARIACOES
+0
+0
+IMAGEM
+
+                            ,-.
+       ___,---.__          /'|`\          __,---,___
+    ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
+  ,'        |           ~'\     /`~           |        `.
+ /      ___//              `. ,'          ,  , \___      \
+|    ,-'   `-.__   _         |        ,    __,-'   `-.    |
+|   /          /\_  `   .    |    ,      _/\          \   |
+\  |           \ \`-.___ \   |   / ___,-'/ /           |  /
+ \  \           | `._   `\\  |  //'   _,' |           /  /
+  `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
+     ``       /     \    ,='/ \`=.    /     \       ''
+             |__   /|\_,--.,-.--,--._/|\   __|
+             /  `./  \\`\ |  |  | /,//' \,'  \
+            /   /     ||--+--|--+-/-|     \   \
+           |   |     /'\_\_\ | /_/_/`\     |   |
+            \   \__, \_     `~'     _/ .__/   /
+             `-._,-'   `-._______,-'   `-._,-'
+IMAGEM_FIM
+
+CAPITULO_COM_IMAGEM
+ID
+Final (Bardo)
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Após começar a dançar, o capra-Demônio se vê confuso, ele simplesmente desiste de lutar contra você e te pergunta, porque?
+ Então, você responde: simplesmente aconteceu; Com isso vocês dois seguem seus caminhos em busca de respostas para suas perguntas...
+VARIACOES
+0
+0
+IMAGEM
+.-._.-._.-._.-._.-._.-._.-._.-.
+-._.".--.._.-._.-._"_._.-._.-._
+  ( (  ° )  .--."  (°'.___   (
+ * ) '--' *(  ° )   '.____) * )
+  (     (   '--'   *     _   (
+   )     )   __ _.      /,'   )
+* (     (  .'  ' '-   ° °    (
+   )     )-  /.;, ) °  °  *   )
+  (     * . ( ^ ('  > POP! < (
+   )       /)\_v/   /'.°      )
+  (       .-|\/|-../"/.      (
+   )     /_/    /'. °\_)      *
+  (     (___'. /# / //
+   )       \\_;'./ //
+  *        /--'.___/
+          ( _/ ' '.
+      °    \  \-.  '. 
+            \  \ '.  \   
+             \  )  )  )  
+              ) | /  |
+             /  |(___|
+         °  |   | \ -\
+      °     \.--:_ \__)
+    ___,_____\____) _____._______
+IMAGEM_FIM
+
+CAPITULO
+ID
+Final (Fuga)
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+O capra-Demônio sem piedade, o persegue e o alcança, fazendo você sofrer como nunca antes, ele o despedaça inteiro.
+VARIACOES
+-40
+0
+
+CAPITULO
+ID
+Final 3
+PERSONAGENS
+Protagonista
+Nulo
+TEXTO
+O capra-Demônio é vencido, e após a sua queda, você vai em busca de respostas para suas perguntas, em busca da razão para estar ali.
+VARIACOES
+0
+0
+
+CAPITULO
+ID
+Continuação Batalha (Mago)
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Seus conhecimentos, lhe trouxeram poderes arcanos, você acaba por usar um deles, 10 flechas mágicas vão na direção do coração do Demônio,
+ e todas conseguem atravéssar seu peito, mas parece que uma delas está descontrolada e acaba pegando em sua mão, após isso, você dissipa a mágia e o capra-demônio ainda está de pé; Escolha:
+VARIACOES
+-6
+-36
+
+CAPITULO
+ID
+Fim Batalha (Mago)
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Você usa a magia e sua visão fica escura, e você só escuta o som do corpo do Capra-Demônio batendo no chão, sua visão volta e você vê o Demônio morto, você não sabe o que aconteceu, mas ele morreu, provavelmente por sua magia.
+VARIACOES
+6
+-1000
+
+CAPITULO
+ID
+Batalha Ladino 1
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+O Capra-Demônio logo o perde de vista, e fica enfurecido; você se esgueira até suas costas e golpeia dando um salto para alcançar o pescoço dele,
+ o Demônio grita de fúria, e te joga no chão, porêm você logo se levanta, e se esgueira novamente; Escolha:
+VARIACOES
+-4
+-11
+
+CAPITULO
+ID
+Batalha Ladino 2/3
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+O Demônio não percebe que você tinha subido na árvore, então você pula na cabeça dele cravando sua adaga no cerebro do mesmo, fazendo assim, ele morrer.
+VARIACOES
+0
+-39
+
+CAPITULO
+ID
+Batalha Ladino 2
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Como o ser já estava esperto com essa estrátégia, você apenas faz um risco em seu braço, mas ele pula e te pressiona contra o chão, você consegue escapar do ataque dele, mas bem ferido.
+VARIACOES
+-10
+-1
+
+CAPITULO
+ID
+Batalha Guerreiro 1
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Então, você avança, você corre em direção as pernas do Demônio, e tenta dar um corte para o fazer cair de joelhos, mas o ele golpeia o chão, deixando você um pouco atordoado; 
+Por estar atordoado, o Capra-Demônio aproveita para te dar um golpe forte, acertando seu braço esquerdo e quase decaptando ele; Escolha:
+VARIACOES
+-15
+-12
+
+CAPITULO
+ID
+Batalha Guerreiro 1/2
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Você crava a espada e atinge uma artéria importante do Demônio, fazendo ele sangrar até a morte.
+VARIACOES
+0
+-38
+
+CAPITULO
+ID
+Batalha Guerreiro 2/2
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Você o escala e tenta cortar seu pescoço, mas o pescoço dele é bastante duro, o que faz com que você faça apenas um corte superficial, 
+o Capra-Demônio se balança e o joga no chão; Escolha:
+VARIACOES
+-4
+-5
+
+CAPITULO
+ID
+Batalha Guerreiro 1/2.2
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Você o escala novamente e dessa vez acerta sua nuca, fazendo o morrer quase que instantaneamente.
+VARIACOES
+0
+-33
+
+ESCOLHA
+DE
+Raiz
+PARA
+Final 1
+TEXTO DIGITADO
+aceitar
+TEXTO DISPLAY
+- [Aceitar] seu destino.
+
+ESCOLHA
+DE 
+Raiz
+PARA
+Desespero
+TEXTO DIGITADO
+luz
+TEXTO DISPLAY
+- Desesperadamente tentará alcançar a [luz].
+
+ESCOLHA
+DE
+Desespero
+PARA
+Luta
+TEXTO DIGITADO
+lutar
+TEXTO DISPLAY
+- Irá atras de [lutar] contra outros Golens para provar sua força.
+
+ESCOLHA
+DE
+Desespero
+PARA
+Leitura
+TEXTO DIGITADO
+ler
+TEXTO DISPLAY
+- Irá até a biblioteca Local para [ler] e aumentar seus conhecimentos.
+
+ESCOLHA
+DE
+Desespero
+PARA
+Espera
+TEXTO DIGITADO
+esperar
+TEXTO DISPLAY
+- Irá [esperar] pacientemente seu proxímo local de vivência.
+
+ESCOLHA
+DE
+Luta
+PARA
+Lutando
+TEXTO DIGITADO
+cravar
+TEXTO DISPLAY
+- Você avança em direção ao seu oponente e tenta [cravar] a espada no peito de seu inimigo.
+
+ESCOLHA
+DE
+Luta
+PARA
+Desonra
+TEXTO DIGITADO
+esgueira
+TEXTO DISPLAY
+- Você se [esgueira] pelo ringue e tenta atacar pelas costas.
+
+ESCOLHA
+DE
+Lutando
+PARA
+Fim da luta
+TEXTO DIGITADO
+desarmar
+TEXTO DISPLAY
+- Tentar [desarmar] Furtle e dar um golpe em suas pernas.
+
+ESCOLHA
+DE
+Lutando
+PARA
+Desonra
+TEXTO DIGITADO
+Fugir
+TEXTO DISPLAY
+- [Fugir] do ringe, pois acha que já foi o suficiente.
+
+ESCOLHA
+DE
+Desonra
+PARA
+Capitulo 2: A Besta (Ladino)
+TEXTO DIGITADO
+
+TEXTO DISPLAY
+Aperte Enter para continuar...
+
+ESCOLHA
+DE
+Capitulo 2: A Besta (Bardo)
+PARA
+Batalha (Bardo)
+TEXTO DIGITADO
+primeiro
+TEXTO DISPLAY
+- [Primeiro] mundo.
+
+ESCOLHA
+DE
+Capitulo 2: A Besta (Ladino)
+PARA
+Batalha (Ladino)
+TEXTO DIGITADO
+Primeiro
+TEXTO DISPLAY
+- [Primeiro] mundo.
+
+ESCOLHA
+DE
+Capitulo 2: A Besta (Guerreiro)
+PARA
+Batalha (Guerreiro)
+TEXTO DIGITADO
+primeiro
+TEXTO DISPLAY
+- [Primeiro] mundo.
+
+ESCOLHA
+DE
+Capitulo 2: A Besta (Mago)
+PARA
+Batalha (Mago)
+TEXTO DIGITADO
+primeiro
+TEXTO DISPLAY
+- [Primeiro] mundo.
+
+ESCOLHA
+DE
+Capitulo 2: A Besta (Ladino)
+PARA
+Final 2
+TEXTO DIGITADO
+Segundo
+TEXTO DISPLAY
+- [Segundo] mundo.
+
+ESCOLHA
+DE
+Capitulo 2: A Besta (Guerreiro)
+PARA
+Final 2
+TEXTO DIGITADO
+Segundo
+TEXTO DISPLAY
+- [Segundo] mundo.
+
+ESCOLHA
+DE
+Capitulo 2: A Besta (Mago)
+PARA
+Final 2
+TEXTO DIGITADO
+Segundo
+TEXTO DISPLAY
+- [Segundo] mundo.
+
+ESCOLHA
+DE
+Capitulo 2: A Besta (Bardo)
+PARA
+Final 2
+TEXTO DIGITADO
+Segundóç
+TEXTO DISPLAY
+- [Segundo] mundo.
+
+ESCOLHA
+DE
+Fim da luta
+PARA
+Capitulo 2: A Besta (Guerreiro)
+TEXTO DIGITADO
+
+TEXTO DISPLAY
+Aperte Enter para continuar...
+
+ESCOLHA
+DE
+Batalha (Bardo)
+PARA
+Final (Bardo)
+TEXTO DIGITADO
+rebolar
+TEXTO DISPLAY
+- Você começa a dançar e [rebolar].
+
+ESCOLHA
+DE
+Leitura
+PARA
+Capitulo 2: A Besta (Mago)
+TEXTO DIGITADO
+
+TEXTO DISPLAY
+Aperte Enter para continuar...
+
+ESCOLHA
+DE
+Batalha (Bardo)
+PARA
+Final (Fuga)
+TEXTO DIGITADO
+Fugir
+TEXTO DISPLAY
+- [Fugir].
+
+ESCOLHA
+DE
+Batalha (Mago)
+PARA
+Continuação Batalha (Mago)
+TEXTO DIGITADO
+magia
+TEXTO DISPLAY
+- Você levanta um dos livros e decide por combater o Demônio com [magia].
+
+ESCOLHA
+DE
+Batalha (Mago)
+PARA
+Final (Fuga)
+TEXTO DIGITADO
+Fugir
+TEXTO DISPLAY
+- [Fugir].
+
+ESCOLHA
+DE
+Continuação Batalha (Mago)
+PARA
+Fim Batalha (Mago)
+TEXTO DIGITADO
+Re-usar
+TEXTO DISPLAY
+- [Re-usar] a magia.
+
+ESCOLHA
+DE
+Continuação Batalha (Mago)
+PARA
+Fim Batalha (Mago)
+TEXTO DIGITADO
+outra
+TEXTO DISPLAY
+- Tentar [outra] magia.
+
+ESCOLHA
+DE
+Espera
+PARA
+Capitulo 2: A Besta (Bardo)
+TEXTO DIGITADO
+
+TEXTO DISPLAY
+Aperte Enter para continuar...
+
+ESCOLHA
+DE
+Fim Batalha (Mago)
+PARA
+Final 3
+TEXTO DIGITADO
+
+TEXTO DISPLAY
+Aperte Enter para continuar...
+
+ESCOLHA
+DE
+Batalha (Ladino)
+PARA
+Batalha Ladino 1
+TEXTO DIGITADO
+esgueira
+TEXTO DISPLAY
+- Você se [esgueira] pelas árvores e decide por combater o Demônio.
+
+ESCOLHA
+DE
+Batalha (Ladino)
+PARA
+Final (Fuga)
+TEXTO DIGITADO
+Fugir
+TEXTO DISPLAY
+- [Fugir].
+
+ESCOLHA
+DE
+Batalha Ladino 1
+PARA
+Batalha Ladino 2/3
+TEXTO DIGITADO
+surpresa
+TEXTO DISPLAY
+- Aproveitar para tentar subir em uma árvore e pegar ele de [surpresa].
+
+ESCOLHA
+DE
+Batalha Ladino 1
+PARA
+Batalha Ladino 2
+TEXTO DIGITADO
+novamente
+TEXTO DISPLAY
+- Tentar o mesmo ataque [novamente].
+
+ESCOLHA
+DE
+Batalha Ladino 2
+PARA
+Batalha Ladino 2/3
+TEXTO DIGITADO
+surpresa
+TEXTO DISPLAY
+- Aproveitar para tentar subir em uma árvore e pegar ele de [surpresa].
+
+ESCOLHA
+DE
+Batalha Ladino 2
+PARA
+Final (Fuga)
+TEXTO DIGITADO
+Fuguir
+TEXTO DISPLAY
+- [Fugir].
+
+ESCOLHA
+DE
+Batalha Ladino 2/3
+PARA
+Final 3
+TEXTO DIGITADO
+
+TEXTO DISPLAY
+Aperte Enter para continuar...
+
+ESCOLHA
+DE
+Batalha (Guerreiro)
+PARA
+Batalha Guerreiro 1
+TEXTO DIGITADO
+empunha
+TEXTO DISPLAY
+- Você [empunha] sua espada e decide por combater o Demônio.
+
+ESCOLHA
+DE
+Batalha (Guerreiro)
+PARA
+Final (Fuga)
+TEXTO DIGITADO
+Fugir
+TEXTO DISPLAY
+- [Fugir].
+
+ESCOLHA
+DE
+Batalha Guerreiro 1
+PARA
+Batalha Guerreiro 1/2
+TEXTO DIGITADO
+Cravar
+TEXTO DISPLAY
+- [Cravar] a espada nas costas dele.
+
+ESCOLHA
+DE
+Batalha Guerreiro 1
+PARA
+Batalha Guerreiro 2/2
+TEXTO DIGITADO
+Escalar
+TEXTO DISPLAY
+- [Escalar] as costas dele para acertar seu pescoço.
+
+ESCOLHA
+DE
+Batalha Guerreiro 1/2
+PARA
+Final 3
+TEXTO DIGITADO
+
+TEXTO DISPLAY
+Aperte Enter para continuar...
+
+ESCOLHA
+DE
+Batalha Guerreiro 2/2
+PARA
+Batalha Guerreiro 1/2
+TEXTO DIGITADO
+Cravar
+TEXTO DISPLAY
+- [Cravar] a espada nas costas dele.
+
+ESCOLHA
+DE
+Batalha Guerreiro 2/2
+PARA
+Batalha Guerreiro 1/2.2
+TEXTO DIGITADO
+escalar
+TEXTO DISPLAY
+- [Escalar] as costar e cravar a espada na nuca dele.
+
+ESCOLHA
+DE
+Batalha Guerreiro 1/2.2
+PARA
+Final 3
+TEXTO DIGITADO
+
+TEXTO DISPLAY
+Aperte Enter para continuar...
+
