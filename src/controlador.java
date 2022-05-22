@@ -2,13 +2,14 @@ import java.util.ArrayList;
 import java.util.Map;
 
 import javafx.event.ActionEvent;
+import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.geometry.Insets;
 import javafx.scene.control.Button;
 import javafx.scene.control.ButtonBar;
 import javafx.scene.control.TextArea;
 
-public class controlador {
+public class Controlador{
 
     @FXML
     private TextArea CapTx;
@@ -63,7 +64,15 @@ public class controlador {
         botaoEsc.setPadding(new Insets(10));
 
         for (int i = 0; i < escolhas.size(); i++) {
-            botaoEsc.getButtons().add(new Button(escolhas.get(i).getTextoDisplay()));
+            Button botao = new Button(escolhas.get(i).getTextoDisplay());
+            botao.setOnAction(new EventHandler<ActionEvent>(){
+                @Override
+                public void handle (ActionEvent event){
+
+
+                }
+            });
+            botaoEsc.getButtons().add(botao);
         }
 
     }
