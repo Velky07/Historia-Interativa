@@ -32,42 +32,38 @@
   OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -->
 
-<?import javafx.scene.control.Button?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.ButtonBar?>
 <?import javafx.scene.control.Label?>
-<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TextArea?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox prefHeight="400.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LoginHistoria">
+<VBox prefHeight="900.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="histScreen">
   <children>
-    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
+    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="706.0" prefWidth="1265.0" VBox.vgrow="ALWAYS">
       <children>
-            <Label alignment="CENTER" layoutX="141.0" layoutY="37.0" prefHeight="35.0" prefWidth="365.0" text="Contos de Um Antigo Golem" textAlignment="CENTER">
+            <Label alignment="CENTER" layoutX="459.0" layoutY="27.0" prefHeight="35.0" prefWidth="365.0" text="Ancient knowledge" textAlignment="CENTER">
                <font>
                   <Font name="Calibri" size="29.0" />
                </font>
             </Label>
-            <Label alignment="CENTER" layoutX="259.0" layoutY="89.0" prefHeight="73.0" prefWidth="131.0" text="Nick:">
+            <TextArea fx:id="CapTx" editable="false" layoutX="34.0" layoutY="87.0" prefHeight="246.0" prefWidth="1214.0" wrapText="true">
                <font>
-                  <Font name="Calibri" size="27.0" />
+                  <Font name="Futura Bk BT Book" size="18.0" />
                </font>
-            </Label>
-            <TextField fx:id="txFieldNick" alignment="CENTER" layoutX="220.0" layoutY="175.0" prefHeight="25.0" prefWidth="209.0" promptText="Digite seu nick aqui...">
+            </TextArea>
+            <TextArea fx:id="txASCI" editable="false" layoutX="34.0" layoutY="344.0" prefHeight="301.0" prefWidth="1214.0" text="ASCCI" visible="false" wrapText="true">
                <font>
-                  <Font name="Calibri" size="18.0" />
-               </font></TextField>
-            <Button fx:id="botaoIniciar" layoutX="252.0" layoutY="223.0" mnemonicParsing="false" onAction="#iniciarHist" text="Iniciar">
-               <font>
-                  <Font name="Calibri" size="38.0" />
+                  <Font name="Consolas" size="18.0" />
                </font>
-            </Button>
-            <Label fx:id="mostarNick" alignment="CENTER" layoutX="216.0" layoutY="145.0" prefHeight="17.0" prefWidth="216.0">
-               <font>
-                  <Font name="Calibri" size="23.0" />
-               </font>
-            </Label>
+            </TextArea>
+            <ButtonBar fx:id="botaoEsc" layoutX="34.0" layoutY="677.0" prefHeight="193.0" prefWidth="1214.0" />
       </children>
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
     </AnchorPane>
   </children>
 </VBox>

@@ -7,9 +7,23 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-public class App extends Application {
+public class App extends Application 
+{
     
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)
+    {    
+        Scanner scan = new Scanner(System.in, "CP850");
+        Leitor ler = new Leitor();
+
+        Map<String,Personagens> dicionarioDePersonagens = ler.carregarPersonagens("rsc/Personagens.txt");
+        
+        Map<String,Capitulo> dicionarioDeCapitulos = ler.carregarCapitulos("rsc/Capitulo.txt", dicionarioDePersonagens, scan);
+        
+        System.out.println("Carregamento finalizado.\n\nIniciando História...\n");
+        Capitulo raiz = dicionarioDeCapitulos.get("Raiz");    
+    
+        
+        scan.close();
         
         launch(args);
     }
@@ -25,23 +39,7 @@ public class App extends Application {
         primaryStage.show();
     }
     
-    //     Scanner scan = new Scanner(System.in, "CP850");
-        
-        
-    //     //------------------------------------------------------------------------------------------
-    //     Leitor ler = new Leitor();
-    //     Map<String,Personagens> dicionarioDePersonagens = ler.carregarPersonagens("rsc/Personagens.txt");
-        
-    //     Map<String,Capitulo> dicionarioDeCapitulos = ler.carregarCapitulos("rsc/Capitulo.txt", dicionarioDePersonagens, scan);
-        
-    //     System.out.println("Carregamento finalizado.\n\nIniciando História...\n");
-    //     System.out.println("Nota:\nPara que nossa história funcione, favor digite a palavra destacada\nBom proveito :]");
-    //     System.out.println();
-    //     Capitulo raiz = dicionarioDeCapitulos.get("Raiz");    
-    //     raiz.executar();
-        
-    //     scan.close();
-    // }
-
 }
+
+
 
