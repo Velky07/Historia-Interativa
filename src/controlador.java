@@ -9,73 +9,63 @@ import javafx.scene.control.Button;
 import javafx.scene.control.ButtonBar;
 import javafx.scene.control.TextArea;
 
-public class Controlador{
+public class Controlador {
 
-    @FXML
-    private TextArea CapTx;
-    
-    @FXML
-    private ButtonBar botaoEsc;
-    
-    @FXML
-    private TextArea txASCI;
-    
-    @FXML
-    private Button iniHist;
-    
-    private Capitulo raiz;
+  @FXML
+  private TextArea CapTx;
 
-    @FXML
-    void iniciaHist(ActionEvent event) {
-        Leitor ler = new Leitor();
+  @FXML
+  private ButtonBar botaoEsc;
 
-        Map<String,Personagens> dicionarioDePersonagens = ler.carregarPersonagens("rsc/Personagens.txt");
-        
-        Map<String,Capitulo> dicionarioDeCapitulos = ler.carregarCapitulos("rsc/Capitulo.txt", dicionarioDePersonagens);
-        
-        System.out.println("Carregamento finalizado.\n\nIniciando História...\n");
-        raiz = dicionarioDeCapitulos.get("Raiz"); 
+  @FXML
+  private TextArea txASCI;
 
-        mostarCap(raiz);
-        iniHist.setVisible(false);
+  @FXML
+  private Button iniHist;
 
-    
+  private Capitulo raiz;
 
-    }
+  @FXML
+  void iniciaHist(ActionEvent event) {
+    Leitor ler = new Leitor();
 
-    private void mostarCap(Capitulo capitulo)
-    {
-        mostarTextoCap(capitulo.getTexto());
-        mostarEscolhas(capitulo.getEscolhas());
-    }
+    Map<String, Personagens> dicionarioDePersonagens = ler.carregarPersonagens("rsc/Personagens.txt");
 
-    public void mostarTextoCap(String texto)
-    {
-        CapTx.setText(texto);
-    }
-    
-    public void mostarTextoASCII(String imgASCII)
-    {
-        txASCI.setText(imgASCII);
-    }
-    
-    public void mostarEscolhas(ArrayList<Escolha> escolhas)
-    {
-        botaoEsc.setPadding(new Insets(10));
+    Map<String, Capitulo> dicionarioDeCapitulos = ler.carregarCapitulos("rsc/Capitulo.txt", dicionarioDePersonagens);
 
-        for (int i = 0; i < escolhas.size(); i++) {
-            Button botao = new Button(escolhas.get(i).getTextoDisplay());
-            botao.setOnAction(new EventHandler<ActionEvent>(){
-                @Override
-                public void handle (ActionEvent event){
+    System.out.println("Carregamento finalizado.\n\nIniciando História...\n");
+    raiz = dicionarioDeCapitulos.get("Raiz");
 
+    mostarCap(raiz);
+    iniHist.setVisible(false);
 
-                }
-            });
-            botaoEsc.getButtons().add(botao);
+  }
+
+  private void mostarCap(Capitulo capitulo) {
+    mostarTextoCap(capitulo.getTexto());
+    mostarEscolhas(capitulo.getEscolhas());
+  }
+
+  public void mostarTextoCap(String texto) {
+    CapTx.setText(texto);
+  }
+
+  public void mostarTextoASCII(String imgASCII) {
+    txASCI.setText(imgASCII);
+  }
+
+  public void mostarEscolhas(ArrayList<Escolha> escolhas) {
+    botaoEsc.setPadding(new Insets(10));
+
+    for (int i = 0; i < escolhas.size(); i++) {
+      Button botao = new Button(escolhas.get(i).getTextoDisplay());
+      botao.setOnAction(new EventHandler<ActionEvent>() {
+        @Override
+        public void handle(ActionEvent event) {
+
         }
-
+      });
+      botaoEsc.getButtons().add(botao);
     }
-
+  }
 }
-
