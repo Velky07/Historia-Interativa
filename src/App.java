@@ -1,6 +1,3 @@
-import java.util.Map;
-import java.util.Scanner;
-
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -12,19 +9,6 @@ public class App extends Application
     
     public static void main(String[] args)
     {    
-        Scanner scan = new Scanner(System.in, "CP850");
-        Leitor ler = new Leitor();
-
-        Map<String,Personagens> dicionarioDePersonagens = ler.carregarPersonagens("rsc/Personagens.txt");
-        
-        Map<String,Capitulo> dicionarioDeCapitulos = ler.carregarCapitulos("rsc/Capitulo.txt", dicionarioDePersonagens, scan);
-        
-        System.out.println("Carregamento finalizado.\n\nIniciando História...\n");
-        Capitulo raiz = dicionarioDeCapitulos.get("Raiz");    
-    
-        
-        scan.close();
-        
         launch(args);
     }
     

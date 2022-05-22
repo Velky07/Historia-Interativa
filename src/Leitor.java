@@ -33,8 +33,7 @@ public class Leitor {
     }
 
     public HashMap<String, Capitulo> carregarCapitulos(String caminho,
-            Map<String, Personagens> dicionarioDePersonagens,
-            Scanner scanDeCapitulos) {
+            Map<String, Personagens> dicionarioDePersonagens) {
         HashMap<String, Capitulo> dicionárioCap = new HashMap<String, Capitulo>();
 
         File arquivo = new File(caminho);
@@ -53,12 +52,12 @@ public class Leitor {
 
                     if(linha.equals("CAPITULO"))
                     {
-                        dicionárioCap.put(id, new Capitulo(dicionarioDePersonagens, scanDeCapitulos, scan));
+                        dicionárioCap.put(id, new Capitulo(dicionarioDePersonagens, scan));
                         scan.nextLine();
                     }
                     else if(linha.equals("CAPITULO_COM_IMAGEM"))
                     {
-                        dicionárioCap.put(id, new CapituloIMG(dicionarioDePersonagens, scanDeCapitulos, scan));
+                        dicionárioCap.put(id, new CapituloIMG(dicionarioDePersonagens, scan));
                     }
 
                     System.out.println("Capítulo " + id);

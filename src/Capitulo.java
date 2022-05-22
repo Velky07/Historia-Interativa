@@ -9,20 +9,17 @@ public class Capitulo {
     private Personagens personagem2;
     private int incrementoVida1;
     private int incrementoVida2;
-    protected Scanner scan;
 
     public Capitulo(String texto,
             Personagens personagem1,
             Personagens personagem2,
             int incrementoVida1,
-            int incrementoVida2,
-            Scanner scan) {
+            int incrementoVida2) {
         this.texto = texto;
         this.personagem1 = personagem1;
         this.personagem2 = personagem2;
         this.incrementoVida1 = incrementoVida1;
         this.incrementoVida2 = incrementoVida2;
-        this.scan = scan;
         this.escolhas = new ArrayList<Escolha>();
     }
 
@@ -34,11 +31,14 @@ public class Capitulo {
 
     public Capitulo(
             Map<String, Personagens> dicionarioDePersonagens,
-            Scanner scanDeCapitulos,
             Scanner scan) {
         this.LerCapitulos(dicionarioDePersonagens, scan);
-        this.scan = scanDeCapitulos;
         this.escolhas = new ArrayList<Escolha>();
+    }
+
+    public String getTexto()
+    {
+        return this.texto;
     }
 
     protected void LerCapitulos(
@@ -120,11 +120,11 @@ public class Capitulo {
 
             }
 
-            escolha = scan.nextLine();
+            escolha = "";
 
             for (int i = 0; i < escolhas.size(); i++) {
 
-                if (escolha.equalsIgnoreCase(escolhas.get(i).getTextoDigitado())) {
+               if (escolha.equalsIgnoreCase(escolhas.get(i).getTextoDigitado())) {
                     validação = true;
                     resultado = i + 1;
                 }
@@ -134,8 +134,12 @@ public class Capitulo {
                 System.out.println("A escolha digitada não é válida, digite novamente");
                 validação = false;
             }
+        
         }
-
         return resultado;
+    }
+
+    public ArrayList<Escolha> getEscolhas() {
+        return escolhas;
     }
 }

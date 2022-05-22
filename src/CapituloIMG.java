@@ -7,11 +7,9 @@ public class CapituloIMG extends Capitulo {
 
     public CapituloIMG(
             Map<String, Personagens> dicionarioDePersonagens,
-            Scanner scanDeCapitulos,
             Scanner scan) {
         super();
         this.LerCapitulos(dicionarioDePersonagens, scan);
-        this.scan = scanDeCapitulos;
         this.escolhas = new ArrayList<Escolha>();
     }
 
