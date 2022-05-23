@@ -26,7 +26,8 @@ public class Controlador {
   private Capitulo raiz;
 
   @FXML
-  void iniciaHist(ActionEvent event) {
+  void iniciaHist(ActionEvent event) 
+  {
     Leitor ler = new Leitor();
 
     Map<String, Personagens> dicionarioDePersonagens = ler.carregarPersonagens("rsc/Personagens.txt");
@@ -42,28 +43,43 @@ public class Controlador {
     //raiz.executar();
   }
 
-  private void mostarCap(Capitulo capitulo) {
+  private void mostarCap(Capitulo capitulo) 
+  {
     mostarTextoCap(capitulo.getTexto());
     mostarEscolhas(capitulo.getEscolhas());
   }
 
-  public void mostarTextoCap(String texto) {
+  private void mostarASCII(CapituloIMG img) 
+  {
+    mostarTextoASCII(img.getImg());
+  }
+
+  public void mostarTextoCap(String texto) 
+  {
     CapTx.setText(texto);
   }
 
-  public void mostarTextoASCII(String imgASCII) {
+  public void mostarTextoASCII(String imgASCII) 
+  {
     txASCI.setText(imgASCII);
   }
 
-  public void mostarEscolhas(ArrayList<Escolha> escolhas) {
+  public void mostarEscolhas(ArrayList<Escolha> escolhas) 
+  {
     botaoEsc.setPadding(new Insets(0));
-
-    for (int i = 0; i < escolhas.size(); i++) {
+    botaoEsc.getButtons().clear();
+    
+    for (int i = 0; i < escolhas.size(); i++) 
+    {
       BotaoEscolha botao = new BotaoEscolha(escolhas.get(i));
-      botao.setOnAction(new EventHandler<ActionEvent>() {
+
+      botao.setOnAction(new EventHandler<ActionEvent>() 
+      {
+    
         @Override
-        public void handle(ActionEvent event) {
-          botao.getEscolha().getProximo();
+        public void handle(ActionEvent event) 
+        {
+          mostarCap(botao.getEscolha().getProximo());
         }
       });
       botaoEsc.getButtons().add(botao);

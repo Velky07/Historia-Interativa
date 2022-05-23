@@ -27,9 +27,14 @@ public class CapituloIMG extends Capitulo {
     }
   }
 
-  protected void mostrar() {
-    System.out.println(this.img);
-    System.out.println();
-    super.mostrar();
+  public String getImg()
+  {
+    return this.img;
   }
+
+  // protected void mostrar() {
+  //   System.out.println(this.img);
+  //   System.out.println();
+  //   super.mostrar();
+  // }
 }
