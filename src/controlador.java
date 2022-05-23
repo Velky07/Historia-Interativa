@@ -12,16 +12,16 @@ import javafx.scene.control.TextArea;
 public class Controlador {
 
   @FXML
-  private TextArea CapTx;
+  public TextArea CapTx;
 
   @FXML
-  private ButtonBar botaoEsc;
+  public ButtonBar botaoEsc;
 
   @FXML
-  private TextArea txASCI;
+  public TextArea txASCI;
 
   @FXML
-  private Button iniHist;
+  public Button iniHist;
 
   private Capitulo raiz;
 
@@ -39,6 +39,7 @@ public class Controlador {
     mostarCap(raiz);
     iniHist.setVisible(false);
 
+    //raiz.executar();
   }
 
   private void mostarCap(Capitulo capitulo) {
@@ -55,14 +56,14 @@ public class Controlador {
   }
 
   public void mostarEscolhas(ArrayList<Escolha> escolhas) {
-    botaoEsc.setPadding(new Insets(10));
+    botaoEsc.setPadding(new Insets(0));
 
     for (int i = 0; i < escolhas.size(); i++) {
-      Button botao = new Button(escolhas.get(i).getTextoDisplay());
+      BotaoEscolha botao = new BotaoEscolha(escolhas.get(i));
       botao.setOnAction(new EventHandler<ActionEvent>() {
         @Override
         public void handle(ActionEvent event) {
-
+          botao.getEscolha().getProximo();
         }
       });
       botaoEsc.getButtons().add(botao);

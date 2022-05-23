@@ -1,3 +1,4 @@
+import java.net.URL;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -12,7 +13,8 @@ public class Main extends Application {
 
   @Override
   public void start(Stage primaryStage) throws Exception {
-    FXMLLoader loader = new FXMLLoader(getClass().getResource("UI.fxml"));
+    URL url = getClass().getResource("UI.fxml");
+    FXMLLoader loader = new FXMLLoader(url);
     Parent root = loader.load();
     Scene tela = new Scene(root);
 
