@@ -14,7 +14,8 @@ public class Capitulo {
       Personagens personagem1,
       Personagens personagem2,
       int incrementoVida1,
-      int incrementoVida2) {
+      int incrementoVida2) 
+  {
     this.texto = texto;
     this.personagem1 = personagem1;
     this.personagem2 = personagem2;
@@ -23,33 +24,39 @@ public class Capitulo {
     this.escolhas = new ArrayList<Escolha>();
   }
 
-  protected Capitulo() {
+  protected Capitulo() 
+  {
     this.texto = "";
     this.escolhas = new ArrayList<Escolha>();
   }
 
   public Capitulo(
       Map<String, Personagens> dicionarioDePersonagens,
-      Scanner scan) {
+      Scanner scan) 
+  {
     this.LerCapitulos(dicionarioDePersonagens, scan);
     this.escolhas = new ArrayList<Escolha>();
   }
   
-  public void addEscolha(Escolha escolha) {
+  public void addEscolha(Escolha escolha) 
+  {
     escolhas.add(escolha);
   }
   
-  public String getTexto() {
+  public String getTexto() 
+  {
     return this.texto;
   }
 
-  public ArrayList<Escolha> getEscolhas() {
+  public ArrayList<Escolha> getEscolhas() 
+  {
     return escolhas;
   }
 
   protected void LerCapitulos(
       Map<String, Personagens> dicionarioDePersonagens,
-      Scanner scan) {
+      Scanner scan) 
+  {
     scan.nextLine(); // PERSONAGENS
     String idPerson1 = scan.nextLine();
     String idPerson2 = scan.nextLine();
@@ -60,15 +67,23 @@ public class Capitulo {
 
     String linha = scan.nextLine();
     this.texto = "";
-    while (!linha.equals("VARIACOES")) {
-      if (linha.equals(idPerson1)) {
+    while (!linha.equals("VARIACOES")) 
+    {
+      if (linha.equals(idPerson1)) 
+      {
         texto = texto + personagem1.getNome();
-
-      } else if (linha.equals(idPerson2)) {
+      } 
+      
+      else if (linha.equals(idPerson2)) 
+      {
         texto = texto + personagem2.getNome();
-      } else {
+      } 
+      
+      else 
+      {
         texto = texto + linha;
       }
+      
       linha = scan.nextLine();
 
     }

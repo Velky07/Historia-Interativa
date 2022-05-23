@@ -9,12 +9,14 @@ public class Leitor {
     HashMap<String, Personagens> dicionárioPerson = new HashMap<String, Personagens>();
 
     File arquivo = new File(caminho);
-    try {
+    try 
+    {
       Scanner scan = new Scanner(arquivo, "CESU8");
 
       System.out.println("Carregando Personagens...");
       int i = 0;
-      while (scan.hasNextLine()) {
+      while (scan.hasNextLine()) 
+      {
         i++;
         String id = scan.nextLine();
         String nome = scan.nextLine();
@@ -25,7 +27,10 @@ public class Leitor {
         dicionárioPerson.put(id, new Personagens(nome, vida));
       }
       scan.close();
-    } catch (FileNotFoundException e) {
+    } 
+    
+    catch (FileNotFoundException e) 
+    {
       e.printStackTrace();
     }
 
@@ -33,38 +38,51 @@ public class Leitor {
   }
 
   public HashMap<String, Capitulo> carregarCapitulos(String caminho,
-      Map<String, Personagens> dicionarioDePersonagens) {
+      Map<String, Personagens> dicionarioDePersonagens) 
+  {
     HashMap<String, Capitulo> dicionárioCap = new HashMap<String, Capitulo>();
 
     File arquivo = new File(caminho);
-    try {
+    try 
+    {
       Scanner scan = new Scanner(arquivo, "CESU8");
 
       System.out.println("Carregando Capítulos...");
 
       String linha = scan.nextLine();
-      while (scan.hasNextLine()) {
+      while (scan.hasNextLine()) 
+      {
         if (linha.equals("CAPITULO") ||
-            linha.equals("CAPITULO_COM_IMAGEM")) {
+            linha.equals("CAPITULO_COM_IMAGEM")) 
+        {
           scan.nextLine(); // ID
           String id = scan.nextLine();
 
-          if (linha.equals("CAPITULO")) {
+          if (linha.equals("CAPITULO")) 
+          {
             dicionárioCap.put(id, new Capitulo(dicionarioDePersonagens, scan));
             scan.nextLine();
-          } else if (linha.equals("CAPITULO_COM_IMAGEM")) {
+          } 
+          
+          else if (linha.equals("CAPITULO_COM_IMAGEM")) 
+          {
             dicionárioCap.put(id, new CapituloIMG(dicionarioDePersonagens, scan));
           }
 
           System.out.println("Capítulo " + id);
 
-        } else if (linha.equals("ESCOLHA")) {
+        } 
+        else if (linha.equals("ESCOLHA")) 
+        {
           LerEscolha(dicionárioCap, scan);
         }
         linha = scan.nextLine();
       }
       scan.close();
-    } catch (FileNotFoundException e) {
+    } 
+    
+    catch (FileNotFoundException e) 
+    {
       e.printStackTrace();
     }
 
@@ -73,7 +91,8 @@ public class Leitor {
 
   private void LerEscolha(
       HashMap<String, Capitulo> dicionárioCap,
-      Scanner scan) {
+      Scanner scan) 
+  {
     scan.nextLine(); // DE
     String idCapituloDe = scan.nextLine();
     scan.nextLine(); // PARA

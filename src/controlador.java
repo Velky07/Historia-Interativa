@@ -9,7 +9,8 @@ import javafx.scene.control.Button;
 import javafx.scene.control.ButtonBar;
 import javafx.scene.control.TextArea;
 
-public class Controlador {
+public class Controlador 
+{
 
   @FXML
   public TextArea CapTx;
@@ -39,8 +40,6 @@ public class Controlador {
 
     mostarCap(raiz);
     iniHist.setVisible(false);
-
-    //raiz.executar();
   }
 
   private void mostarCap(Capitulo capitulo) 
