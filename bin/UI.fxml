@@ -45,7 +45,7 @@
   <children>
     <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="706.0" prefWidth="1265.0" VBox.vgrow="ALWAYS">
       <children>
-            <Label alignment="CENTER" layoutX="459.0" layoutY="27.0" prefHeight="35.0" prefWidth="365.0" text="Ancient knowledge" textAlignment="CENTER">
+            <Label alignment="CENTER" layoutX="413.0" layoutY="25.0" prefHeight="35.0" prefWidth="459.0" text="Contos de uma antiga civilização" textAlignment="CENTER">
                <font>
                   <Font name="Calibri" size="29.0" />
                </font>

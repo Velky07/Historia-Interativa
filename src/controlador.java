@@ -48,11 +48,7 @@ public class Controlador
     mostarEscolhas(capitulo.getEscolhas());
   }
 
-  private void mostarASCII(CapituloIMG img) 
-  {
-    mostarTextoASCII(img.getImg());
-  }
-
+  
   public void mostarTextoCap(String texto) 
   {
     CapTx.setText(texto);
@@ -74,7 +70,7 @@ public class Controlador
 
       botao.setOnAction(new EventHandler<ActionEvent>() 
       {
-    
+        
         @Override
         public void handle(ActionEvent event) 
         {
@@ -85,3 +81,8 @@ public class Controlador
     }
   }
 }
+
+// private void mostarASCII(CapituloIMG img) 
+// {
+//   mostarTextoASCII(img.getImg());
+// }
